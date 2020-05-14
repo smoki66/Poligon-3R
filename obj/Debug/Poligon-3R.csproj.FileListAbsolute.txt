@@ -1,0 +1,6 @@
+c:\users\smoki\documents\visual studio 2012\Projects\Poligon-3R\Poligon-3R\bin\Debug\Poligon-3R.exe.config
+c:\users\smoki\documents\visual studio 2012\Projects\Poligon-3R\Poligon-3R\bin\Debug\Poligon-3R.exe
+c:\users\smoki\documents\visual studio 2012\Projects\Poligon-3R\Poligon-3R\bin\Debug\Poligon-3R.pdb
+c:\users\smoki\documents\visual studio 2012\Projects\Poligon-3R\Poligon-3R\obj\Debug\Poligon-3R.csprojResolveAssemblyReference.cache
+c:\users\smoki\documents\visual studio 2012\Projects\Poligon-3R\Poligon-3R\obj\Debug\Poligon-3R.exe
+c:\users\smoki\documents\visual studio 2012\Projects\Poligon-3R\Poligon-3R\obj\Debug\Poligon-3R.pdb
