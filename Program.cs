@@ -274,7 +274,7 @@ namespace Poligon_3R
         static void Main(string[] args)
         {
             Tacka[] ulaz = new Tacka[3];
-            /* Prost */
+            /* Primer prostog poligona */
             /*
             ulaz[0] = new Tacka(2, 2);
             ulaz[1] = new Tacka(2, 1);
