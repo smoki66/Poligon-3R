@@ -120,6 +120,7 @@ namespace Poligon_3R
             public double Povrsina()
             {
                 // Domaci 1 - uradi povrsinu
+		// hoce li neko ovo uraditi?
 
                 return 0;
             }
