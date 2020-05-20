@@ -32,6 +32,7 @@ namespace Poligon_3R
         }
         class Vektor
         {
+		// ovo je klasa vektor, u dve dimenzije
             public double x;
             public double y;
             public Vektor(double _x, double _y)
