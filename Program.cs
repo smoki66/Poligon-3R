@@ -37,6 +37,7 @@ namespace Poligon_3R
             public double y;
             public Vektor(double _x, double _y)
             {
+		// konstruktor klase vektor - MP
                 x = _x;
                 y = _y;
             }
