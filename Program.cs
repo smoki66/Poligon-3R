@@ -32,12 +32,12 @@ namespace Poligon_3R
         }
         class Vektor
         {
-		// ovo je klasa vektor, u dve dimenzije + NM + IM
+		//  Ovo je verzija 1.7
             public double x;
             public double y;
             public Vektor(double _x, double _y)
             {
-		// konstruktor klase vektor - MP. -NM
+		// 
                 x = _x;
                 y = _y;
             }
