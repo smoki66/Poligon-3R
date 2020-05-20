@@ -33,6 +33,7 @@ namespace Poligon_3R
         class Vektor
         {
 		//  Ovo je verzija 1.7
+		// sa dva reda je 1.71
             public double x;
             public double y;
             public Vektor(double _x, double _y)
