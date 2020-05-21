@@ -32,10 +32,13 @@ namespace Poligon_3R
         }
         class Vektor
         {
+		// sa dva reda je 1.71 i ona je pobedila - postaje master
+// komentar za 3-R
             public double x;
             public double y;
             public Vektor(double _x, double _y)
             {
+		// 
                 x = _x;
                 y = _y;
             }
